@@ -1,0 +1,179 @@
+You are an AI assistant to help me solve math problem.
+I first give you an original question with an unknown variable x, then I give you the answer to this original question.
+You help me determine the value of x.
+Follow the given examples and answer the question.
+
+
+Question: there were 35 students in a hostel. due to the admission of 7 new students the expenses of the mess were increased by rs . 84 per day while the average expenditure per head diminished by re x. What was the original expenditure of the mess?
+Answer Choices: (A) rs 450 (B) rs 920 (C) rs 550 (D) rs . 630 (E) none of these
+If we know the answer to the above question is (D) rs . 630, what is the value of unknown variable x?
+A:
+Let's think step by step.
+To find the value of x, we can set up an equation based on the information provided in the question.
+Let's denote the original expenditure of the mess as x.
+According to the question, the total expenses of the mess increased by rs. 84 per day after the admission of 7 new students. So, the new total expense per day is x + 84.
+The average expenditure per head diminished by x, which means the original average expenditure per head was X/35, and the new average expenditure per head is (x + 84)/42 (since there are now 42 students in total).
+We can set up the equation as follows:
+(x + 84)/42 = X/35 - x
+To solve for x, we need to substitute the answer choice (D) rs. 630 for X and solve for x.
+(630 + 84)/42 = 630/35 - x
+714/42 = 18 - x
+17 = 18 - x
+x = 18 - 17
+x = 1
+The value of x is 1.
+
+
+Question: The average weight of a , b and c is 45 kg. If the average weight of a and b be 40 kg and that of b and c be x kg, then the weight of b is:
+Answer Choices: (A) 31 kg (B) 32 kg (C) 33 kg (D) 35 kg (E) none of these
+If we know the answer to the above question is (D) 35 kg, what is the value of unknown variable x?
+A:
+Let's think step by step.
+To find the value of x, we can set up equations based on the information provided in the question.
+Let's denote the weight of person a as A, the weight of person b as B, and the weight of person c as C.
+According to the question, the average weight of a, b, and c is 45 kg, so we can write the equation:
+(A + B + C)/3 = 45
+The average weight of a and b is 40 kg, so we can write the equation:
+(A + B)/2 = 40
+The average weight of b and c is x kg, so we can write the equation:
+(B + C)/2 = x
+From the second equation, we can isolate A and write it as:
+A = 80 - B
+Substituting A = 80 - B into the first equation, we get:
+(80 - B + B + C)/3 = 45
+80 + C = 135
+C = 135 - 80
+C = 55
+Substituting C = 55 into the third equation, we get:
+(B + 55)/2 = x
+If we know the answer to the above question is (D) 35 kg, we can substitute B = 35 into the equation and solve for x:
+(35 + 55)/2 = x
+90/2 = x
+x = 45
+The value of x is 45.
+
+
+Question: A trader sells 40 metres of cloth for rs . 8200 at a profit of rs . 35 per metre of cloth. How much profit will the trader earn on x metres of cloth?
+Answer Choices: (A) rs . 950 (B) rs . 1500 (C) rs . 1000 (D) rs . 1400 (E) none of these
+If we know the answer to the above question is (D) rs . 1400, what is the value of unknown variable x?
+A:
+Let's think step by step.
+To find the value of x, we can set up an equation based on the information provided in the question.
+Let's denote the profit on x metres of cloth as P.
+According to the question, the trader sells 40 metres of cloth for rs. 8200 at a profit of rs. 35 per metre of cloth. So, the profit on 40 metres of cloth is 35 * 40 = rs. 1400.
+We can set up the equation as follows:
+P = (Profit on 40 metres of cloth) * (x/40)
+To solve for x, we need to substitute the answer choice (D) rs. 1400 for P and solve for x.
+1400 = 1400 * (x/40)
+Dividing both sides by 1400:
+1 = x/40
+x = 40
+The value of x is 40.
+
+
+Question: A train x m long passes a man, running at 5 km / hr in the same direction in which the train is going, in 10 seconds. The speed of the train is?
+Answer Choices: (A) 28 km/hr (B) 50 km/hr (C) 77 km/hr (D) 22 km/hr (E) 12 km/hr
+If we know the answer to the above question is (C) 77 km/hr, what is the value of unknown variable x?
+A:
+Let's think step by step.
+To find the value of x, we can set up an equation based on the information provided in the question.
+Let's denote the speed of the train as T km/hr.
+According to the question, the train is x meters long and passes a man running at 5 km/hr in the same direction in which the train is going in 10 seconds.
+When a train overtakes a moving object, the relative speed of the train with respect to the object is the difference between their speeds.
+The relative speed of the train and the man is T - 5 km/hr (since the train is going in the same direction as the man).
+We can convert the speed to meters per second (m/s) to match the distance unit of the train. 1 km/hr = 5/18 m/s.
+So, the relative speed of the train and the man is (T - 5) * (5/18) m/s.
+The time taken for the train to pass the man is given as 10 seconds.
+The distance covered by the train in 10 seconds is the length of the train, which is x meters.
+We can use the formula distance = speed * time to set up the equation:
+x = (T - 5) * (5/18) * 10
+To solve for x, we need to substitute the answer choice (C) 77 km/hr for T and solve for x.
+x = (77 - 5) * (5/18) * 10
+x = 72 * (5/18) * 10
+x = 200 meters
+The value of x is 200.
+
+
+Question: If c / d = 3/4 and 8c + 5d = x,then find the value of c.
+Answer Choices: (A) 1/2 (B) 3/2 (C) 5/2 (D) 4/2 (E) 7/2
+If we know the answer to the above question is (B) 3/2, what is the value of unknown variable x?
+A:
+Let's think step by step.
+To find the value of x, we can use the given equations and solve for c.
+We are given:
+c / d = 3/4
+8c + 5d = x
+To eliminate the variable d, we can rearrange the first equation to express d in terms of c:
+d = (4/3)c
+Substituting this value of d into the second equation, we get:
+8c + 5((4/3)c) = x
+8c + (20/3)c = x
+(24/3)c + (20/3)c = x
+(44/3)c = x
+If we know the answer to the above question is (B) 3/2, we can substitute c = 3/2 into the equation and solve for x:
+(44/3)(3/2) = x
+(44/2) = x
+22 = x
+The value of x is 22.
+
+
+Question: A person is traveling at x km/hr and reached his destiny in 2.5 hr, then find the distance?
+Answer Choices: (A) 53 km (B) 55 km (C) 52 km (D) 60 km (E) 50 km
+If we know the answer to the above question is (E) 50 km, what is the value of unknown variable x?
+A:
+Let's think step by step.
+To find the value of x, we can use the given information and solve for the distance traveled.
+According to the question, the person is traveling at x km/hr and reaches their destination in 2.5 hours.
+The formula to calculate distance is distance = speed * time.
+We can substitute the given values into the formula:
+Distance = x km/hr * 2.5 hr
+Distance = 2.5x km
+If we know the answer to the above question is (E) 50 km, we can set up the equation and solve for x:
+2.5x = 50
+Dividing both sides by 2.5:
+x = 20
+The value of x is 20.
+
+
+Question: John found that the average of 15 numbers is x. If 10 is added to each number then the mean of the numbers is?
+Answer Choices: (A) 50 (B) 45 (C) 65 (D) 78 (E) 64
+If we know the answer to the above question is (A) 50, what is the value of unknown variable x?
+A:
+Let's think step by step.
+To find the value of x, we can use the given information and solve for the new mean of the numbers.
+According to the question, the average of 15 numbers is x.
+We can denote the sum of the 15 numbers as S.
+So, the sum of the 15 numbers is 15x.
+If 10 is added to each number, the new sum of the numbers is (15x + 1015) because there are 15 numbers and each number has 10 added to it.
+The new mean is the new sum divided by the number of numbers, which is 15.
+We can set up the equation as follows:
+(New sum)/15 = (15x + 1015)/15
+To solve for x, we need to substitute the answer choice (A) 50 for the new mean and solve for x:
+(15x + 10*15)/15 = 50
+(15x + 150)/15 = 50
+15x + 150 = 50 * 15
+15x + 150 = 750
+15x = 750 - 150
+15x = 600
+x = 600/15
+x = 40
+The value of x is 40.
+
+
+Question: A person is traveling at 20 km/hr and reached his destiny in x hr then find the distance?
+Answer Choices: (A) 53 km (B) 55 km (C) 52 km (D) 60 km (E) 50 km
+If we know the answer to the above question is (E) 50 km, what is the value of unknown variable x?
+A:
+Let's think step by step.
+To find the value of x, we can use the given information and solve for the distance traveled.
+According to the question, the person is traveling at 20 km/hr and reaches their destination in x hours.
+The formula to calculate distance is distance = speed * time.
+We can substitute the given values into the formula:
+Distance = 20 km/hr * x hr
+Distance = x * 20 km
+If we know the answer to the above question is (E) 50 km, we can set up the equation and solve for x:
+x * 20 = 50
+Dividing both sides by 20:
+x = 50/20
+x = 2.5
+The value of x is 2.5.
